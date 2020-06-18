@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
---  Name:	Mealy_FSM_TB.vhd
+--  Name: Mealy_FSM_TB.vhd
 --  Dependencies: Mealy_FSM.vhd
 --  Design Software:	Vivado 2018.3
 --  Engineer: Marcelo Delgado
