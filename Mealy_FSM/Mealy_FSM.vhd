@@ -1,14 +1,15 @@
 --------------------------------------------------------------------------------
---    Name:	Mealy_FSM.vhd
---    Dependencies: -
---    Design Software:	Vivado 2018.3
---    Engineer: Marcelo Delgado
+--  Name: Mealy_FSM.vhd
+--  Dependencies: -
+--  Design Software: Vivado 2018.3
+--  Engineer: Marcelo Delgado
+--  Explanation video: https://www.youtube.com/watch?v=wGUggIjnRyo
 --
---    Description:
---    Mealy FSM, state diagram in file "FSM_state_diagram.PNG"
+--  Description:
+--  Mealy FSM, state diagram in file "FSM_state_diagram.PNG"
 --
---    Version History:
---    1.0 - 18/06/2020 Marcelo Delgado
+--  Version History:
+--  1.0 - 18/06/2020 Marcelo Delgado
 --    Initial Public Release
 --------------------------------------------------------------------------------
 
